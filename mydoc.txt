@@ -1,0 +1,161 @@
+<div class=" about-us container-fluid">
+    <div class=" pt-5" class="bd-grid">
+    <h1 id="myaboutus"> ABOUT US </h1>
+    <div class="col-md-12 pt-5">
+    <div class="row" class="border" class="pt-4" id="aboutus">
+    
+    
+      <div class="col-md-6">
+        <img src="/images/cp 3.png" height="330px" width="450px" alt="" srcset="">
+      </div>
+      <div class="col-md-6"><ul class="box">
+        <p>Red’s about page level up your expectations of what a real estate company’s website can be. What we love:
+    
+         <li>  The opening scroll experience isn’t over the top, it does just enough to grab 
+          your attention and make you want to scroll further down the page. </li>
+         <li> If you’ve ever purchased or developed a home or commercial real estate,  </li>
+         <li> actually liking and trusting your agent’s really important. They do a great job of
+           highlighting the personality of each of their employees in their team section. </li>
+         <li> Overall the presentation feels very professional without feeling stuffy. </li></p>
+        </ul>
+      </div>
+      </div>
+      </div>
+      
+    </div>
+    </div>
+
+
+    ...........................................................................
+
+
+     <h3 class="controls">Services Provided By Us..</h3>
+  <div class="card-group">
+    <div class="card">
+      <img src="./images/CCTV-camer-services.png" class="card-img-top" 
+      height="200px"
+      width="200px"
+      >
+      <div class="card-body">
+        <h5 class="card-title">Services</h5>
+        <p class="card-text7" >This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action......</p>
+
+        <button type="button" class="btn btn-success">Read More</button>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./images/how-to-install-cctv-camera-3.webp" class="card-img-top" 
+      height="200px" 
+      width="200px"
+      >
+      <div class="card-body shadow-2-strong">
+        <h5 class="card-title">Installation</h5>
+        <p class="card-text7" >This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action......</p>
+        <button type="button" class="btn btn-success">Read More</button>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./images/dvr.png" class="card-img-top"  
+      height="200px" 
+      width="200px"
+      >
+      <div class="card-body">
+        <h5 class="card-title">DVR</h5>
+        <p class="card-text7" >This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action......</p>
+        <button type="button" class="btn btn-success">Read More</button>
+      </div>
+    </div>
+  </div>
+
+
+
+  ///////////////////////////////////////////////////
+  <div class="container-fluid" id="iframe">
+<div class="col-md-12"   >
+    <h4 id="iframe-title">INTALLATION OF CCTV CAMERA</h4>
+  <div class="row mt-5">
+  <div class="col-4">
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/0P8wR3Npkw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="col-4">
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/urrJ0PnIzc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <div class="col-4">
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/AQ1EPl_4O2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div> </div> </div>
+</div>
+
+
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.8836955992583!2d77.43452071480455!3d23.210908784857985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c437d467daf45%3A0xd7496fb6b9d80d78!2sArera%20colony!5e0!3m2!
+1sen!2sin!4v1663148598065!5m2!1sen!2sin
+
+<button class="w-100 py-2 mb-2 btn btn-outline-primary rounded-3" type="submit">
+                    <svg class="bi me-1" width="6" height="16">
+                      <use xlink:href="#facebook"></use>
+                    </svg>
+                    Sign up with Facebook
+                  </button>
+                  <button class="w-100 py-2 mb-2 btn btn-outline-primary rounded-3" type="submit">
+                    <svg class="bi me-1" width="6" height="16">
+                      <use xlink:href="#github"></use>
+                    </svg>
+                    Sign up with GitHub
+                  </button>
+
+
+
+                  ///////////////////////////////////////////////
+
+                    <div class="container-fluid my-5">
+  <div class="row ">
+    <h2 class="text-center text-info border-bottom-2 my-4"> ABOUT OUR SERVICES</h2>
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+      <img
+        src="./images/CCTV2.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Boat on Calm Water"
+        data-aos="zoom-in-up"
+      />
+  
+      <img
+        src="./images/CCTV32.jpg"
+        class="w-100 shadow-1-strong rounded mb-4 h-50"
+        alt="Wintry Mountain Landscape"
+        data-aos="zoom-in-up"
+      />
+    </div>
+  
+    <div class="col-lg-4 mb-4 mb-lg-0">
+      <img
+        src="./images/CCTV4.jpg"
+        class="w-100 shadow-1-strong rounded mb-4 h-50"
+        alt="Mountains in the Clouds"
+        data-aos="zoom-in-up"
+      />
+  
+      <img
+        src="images/CCTV-7.png"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Boat on Calm Water"
+        data-aos="zoom-in-up"
+      >
+    </div>
+  
+    <div class="col-lg-4 mb-4 mb-lg-0">
+      <img
+        src="./images/CCTV6.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Waves at Sea"
+        data-aos="zoom-in-up"
+      >
+  
+      <img
+        src="./images/CCTV5.jpeg"
+        class="w-100 shadow-1-strong rounded mb-4 h-27"
+        alt="Yosemite National Park"
+        data-aos="zoom-in-up"
+      >
+    </div>
+  </div>
+</div>
